@@ -1,8 +1,12 @@
 # Spring MVC Chuck Norris Jokes App
+<<<<<<< HEAD
 
 Spring MVC Chuck Norris Jokes App.
 
 This repository contains code to support my online courses. Learn more using the links below!
+=======
+Spring MVC Chuck Norris Jokes App
+>>>>>>> parent of 3ea4533 (Update README.md)
 
 You can learn more about the courses here:
 
